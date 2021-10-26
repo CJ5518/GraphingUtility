@@ -1,0 +1,8 @@
+build/*
+!build/.gitignore
+imgui.ini
+.vscode/
+*.exe
+*.dll
+bin/*
+!bin/.gitignore
